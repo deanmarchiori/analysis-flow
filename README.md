@@ -27,4 +27,5 @@ to PR any resources or ideas, or just submit an issue for discussion.
 If you would like to tag your twitter or contact info to connect with others:  
 
 + [deanmarchiori](https://twitter.com/deanmarchiori)  
++ [MitchStares](https://twitter.com/DeadTreeDude)  
 
