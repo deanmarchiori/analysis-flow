@@ -13,18 +13,22 @@ to PR any resources or ideas, or just submit an issue for discussion.
 ## Resources  
 
 
-### R packages  
+### R packages   
++ [Drake - An R-focused pipeline toolkit for reproducibility and high-performance computing ](https://docs.ropensci.org/drake/)  
++ [ProjectTemplate is a system for automating the thoughtless parts of a data analysis project](http://projecttemplate.net/)
 
 
 ### Blog Posts  
++ [Structuring R Projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)  
 
 
 ### Papers  
-[Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
-[Packaging Data Analytical Work Reproducibly Using R (and Friends)](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)
++ [Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
++ [Packaging Data Analytical Work Reproducibly Using R (and Friends)](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)
 
 ### Talks   
-[Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)
++ [Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)  
++ [RMarkdown Driven Development - Emily Riederer](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer)
 
 
 ## Collaborators  
