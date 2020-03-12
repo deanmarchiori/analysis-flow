@@ -8,7 +8,7 @@ to PR any resources or ideas, or just submit an issue for discussion.
 
 ## The idea  
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think an underated skill is guessing how much complexity a project will have before you start, and picking an appropriate workflow.</p>&mdash; Dean Marchiori (@deanmarchiori) <a href="https://twitter.com/deanmarchiori/status/1235361729221099522?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think an underated skill is guessing how much complexity a project will have before you start, and picking an appropriate workflow.</p>&mdash; Dean Marchiori (@deanmarchiori) <a href="https://twitter.com/deanmarchiori/status/1235361729221099522?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote> 
 
 ## Resources  
 
