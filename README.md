@@ -20,6 +20,11 @@ to PR any resources or ideas, or just submit an issue for discussion.
 
 
 ### Papers  
+[Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
+[Packaging Data Analytical Work Reproducibly Using R (and Friends)](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)
+
+### Talks   
+[Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)
 
 
 ## Collaborators  
