@@ -28,7 +28,8 @@ to PR any resources or ideas, or just submit an issue for discussion.
 
 ### Talks   
 + [Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)  
-+ [RMarkdown Driven Development - Emily Riederer](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer)
++ [RMarkdown Driven Development - Emily Riederer](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer)  
++ [Community Call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24/)
 
 
 ## Collaborators  
