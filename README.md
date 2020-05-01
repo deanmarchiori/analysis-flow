@@ -16,7 +16,8 @@ to PR any resources or ideas, or just submit an issue for discussion.
 ### R packages   
 + [Drake - An R-focused pipeline toolkit for reproducibility and high-performance computing ](https://docs.ropensci.org/drake/)  
 + [ProjectTemplate is a system for automating the thoughtless parts of a data analysis project](http://projecttemplate.net/)  
-+ [A function definition generator](https://github.com/MilesMcBain/fnmate)
++ [fnmate - A function definition generator](https://github.com/MilesMcBain/fnmate)  
++ [dflow - Automatically setup a drake project](https://github.com/milesmcbain/dflow)
 
 
 ### Blog Posts   
