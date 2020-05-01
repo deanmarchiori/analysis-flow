@@ -19,7 +19,8 @@ to PR any resources or ideas, or just submit an issue for discussion.
 + [A function definition generator](https://github.com/MilesMcBain/fnmate)
 
 
-### Blog Posts  
+### Blog Posts   
++ [Benefits of a function-based diet (The {drake} post) - Miles McBain](https://milesmcbain.xyz/the-drake-post/)
 + [Structuring R Projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)  
 
 
