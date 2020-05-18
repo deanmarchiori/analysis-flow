@@ -20,6 +20,8 @@ to PR any resources or ideas, or just submit an issue for discussion.
 + [orderly - Lightweight Reproducible Reporting for R](https://github.com/vimc/orderly)
 + [fnmate - A function definition generator](https://github.com/MilesMcBain/fnmate)  
 + [dflow - Automatically setup a drake project](https://github.com/milesmcbain/dflow)
++ [represtools - Reproducible Research Tools](https://pirategrunt.com/represtools/)
++ [starters - R Package for initializing projects for various R activities](https://itsalocke.com/starters/)
 
 
 ### Blog Posts   
