@@ -11,11 +11,14 @@ to PR any resources or ideas, or just submit an issue for discussion.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think an underated skill is guessing how much complexity a project will have before you start, and picking an appropriate workflow.</p>&mdash; Dean Marchiori (@deanmarchiori) <a href="https://twitter.com/deanmarchiori/status/1235361729221099522?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote> 
 
 ## Resources  
-
++ [What They Forgot to Teach You About R)(https://rstats.wtf/)
 
 ### R packages   
 + [Drake - An R-focused pipeline toolkit for reproducibility and high-performance computing ](https://docs.ropensci.org/drake/)  
-+ [ProjectTemplate is a system for automating the thoughtless parts of a data analysis project](http://projecttemplate.net/)  
++ [ProjectTemplate is a system for automating the thoughtless parts of a data analysis project](http://projecttemplate.net/)
++ [workflowr - Organized + reproducible + shareable data science in R](https://jdblischak.github.io/workflowr/)
++ [rrtools - Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools)
++ [orderly - organized + reproducible + shareable data science in R ](https://github.com/vimc/orderly)
 + [fnmate - A function definition generator](https://github.com/MilesMcBain/fnmate)  
 + [dflow - Automatically setup a drake project](https://github.com/milesmcbain/dflow)
 
@@ -26,7 +29,7 @@ to PR any resources or ideas, or just submit an issue for discussion.
 + [Using {drake} for Machine Learning](https://edwinth.github.io/blog/drake-ml/)  
 
 ### Books  
-+ [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
++ [Agile Data Science with R](https://edwinth.github.io/ADSwR/) 
 
 ### Papers  
 + [Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
