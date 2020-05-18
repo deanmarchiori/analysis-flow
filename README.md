@@ -1,6 +1,6 @@
-# The meta-concepts of data analysis, reproducible workflows and projects in R.  
+# The meta-concepts of data analysis, workflows and projects in R.  
 
-This is a place to collaborate on resources and potential meetups to discuss the 
+This is a place to collaborate on resources and to discuss the 
 meta-concepts of data analysis.  
 
 The format will likely evolve, but if you would like to contribute, feel free
@@ -22,8 +22,11 @@ to PR any resources or ideas, or just submit an issue for discussion.
 
 ### Blog Posts   
 + [Benefits of a function-based diet (The {drake} post) - Miles McBain](https://milesmcbain.xyz/the-drake-post/)
-+ [Structuring R Projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)  
++ [Structuring R Projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/)   
++ [Using {drake} for Machine Learning](https://edwinth.github.io/blog/drake-ml/)  
 
+### Books  
++ [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
 
 ### Papers  
 + [Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
