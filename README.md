@@ -18,7 +18,7 @@ to PR any resources or ideas, or just submit an issue for discussion.
 + [ProjectTemplate is a system for automating the thoughtless parts of a data analysis project](http://projecttemplate.net/)
 + [workflowr - Organized + reproducible + shareable data science in R](https://jdblischak.github.io/workflowr/)
 + [rrtools - Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools)
-+ [orderly - organized + reproducible + shareable data science in R ](https://github.com/vimc/orderly)
++ [orderly - Lightweight Reproducible Reporting for R](https://github.com/vimc/orderly)
 + [fnmate - A function definition generator](https://github.com/MilesMcBain/fnmate)  
 + [dflow - Automatically setup a drake project](https://github.com/milesmcbain/dflow)
 
