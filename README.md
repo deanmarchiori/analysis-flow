@@ -35,12 +35,14 @@ to PR any resources or ideas, or just submit an issue for discussion.
 
 ### Papers  
 + [Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
-+ [Packaging Data Analytical Work Reproducibly Using R (and Friends)](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)
++ [Packaging Data Analytical Work Reproducibly Using R (and Friends)](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)  
++ [Opinionated analysis development, Parker (2017)](https://peerj.com/preprints/3210/)  
 
 ### Talks   
 + [Community Call - Reproducible Research with R](https://ropensci.org/blog/2019/07/11/commcall-jul2019/)  
 + [RMarkdown Driven Development - Emily Riederer](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer)  
-+ [Community Call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24/)
++ [Community Call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24/)  
++ [Opinionated Analysis Development](https://rstudio.com/resources/rstudioconf-2017/opinionated-analysis-development/)  
 
 
 ## Collaborators  
