@@ -31,7 +31,8 @@ to PR any resources or ideas, or just submit an issue for discussion.
 
 ### Books  
 + [Agile Data Science with R](https://edwinth.github.io/ADSwR/)  
-+ [What They Forgot to Teach You About R](https://rstats.wtf/)  
++ [What They Forgot to Teach You About R](https://rstats.wtf/) 
++ [The Turing Way: a how to guide for reproducible data science](https://the-turing-way.netlify.com/)
 
 ### Papers  
 + [Packaging Data Analytical Work Reproducibly Using R (and Friends)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986?journalCode=utas20)   
