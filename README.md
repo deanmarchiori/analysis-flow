@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/stars/deanmarchiori/analysis-flow.svg)
 ![](https://img.shields.io/github/forks/deanmarchiori/analysis-flow.svg)
-![](https://img.shields.io/github/license/deanmarchiori/analysis-flow)
+![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/status-help--wanted-green)  
 
 This repository aims to collect resources relating to workflow and tooling
