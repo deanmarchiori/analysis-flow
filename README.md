@@ -33,7 +33,7 @@ Package | About | Available on
 [orderly](https://github.com/vimc/orderly) | Lightweight Reproducible Reporting for R | CRAN  
 [fnmate](https://github.com/MilesMcBain/fnmate) | A function definition generator | Github  
 [dflow](https://github.com/milesmcbain/dflow) | Automatically setup a drake project | Github    
-[represtools](https://pirategrunt.com/represtools/) | Automatically setup a drake project | CRAN 
+[represtools](https://pirategrunt.com/represtools/) | Basic utility functions to support reproducible research | CRAN 
 [starters](https://itsalocke.com/starters/) | R Package for initializing projects for various R activities | Github   
 [targets](https://docs.ropensci.org/targets/) | Function-oriented Make-like declarative workflows for R | Github  
 
