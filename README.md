@@ -75,6 +75,7 @@ Title | Citation
 + [RMarkdown Driven Development - Emily Riederer](https://resources.rstudio.com/rstudio-conf-2020/rmarkdown-driven-development-emily-riederer)  
 + [Community Call: Reproducible workflows at scale with drake](https://ropensci.org/commcalls/2019-09-24/)  
 + [Opinionated Analysis Development](https://rstudio.com/resources/rstudioconf-2017/opinionated-analysis-development/)  
-+ [Will Landau - Reproducible Computation at Scale in R with Targets- New York Open Statistical Programming Meetup from December 2020](https://youtu.be/Gqn7Xn4d5NI)  
++ [Will Landau - Reproducible Computation at Scale in R with Targets- New York Open Statistical Programming Meetup from December 2020](https://youtu.be/Gqn7Xn4d5NI)   
++ [How reproducible am I? A retrospective on a year of commercial data science projects in R - Dean Marchiori](https://rstudio.com/resources/rstudioglobal-2021/how-reproducible-am-i-a-retrospective-on-a-year-of-commercial-data-science-projects-in-r/)
 
 
